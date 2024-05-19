@@ -1,0 +1,3 @@
+20240508	16:21:17	971af552-d667-412f-aa6f-37067c1edf77	/new-page	GET
+20240508	16:21:17	7343682c-5619-40f1-a763-3b0276a5056c	/css/style.css	GET
+20240508	16:21:17	ba1b87aa-08a7-4dcb-a1fc-da34bfd5e2a5	/img/download.jpg	GET

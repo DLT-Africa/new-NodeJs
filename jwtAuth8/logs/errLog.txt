@@ -1,0 +1,4 @@
+20240513	12:51:35	0766c181-90a8-4b6f-8d08-8e6ca8ab577e	TypeError: data.find is not a function
+20240516	16:52:45	28d4212c-44a6-4a97-aa1e-70798f815f8c	TypeError: rolesArray.includes(...).find is not a function
+20240516	17:16:42	24f6249e-fcea-4496-aae5-81faeb4ee32b	TypeError: rolesArray.includes(...).find is not a function
+20240516	17:18:26	bec6c9dc-e5d6-4be8-8f3c-627e60ff44ba	TypeError: rolesArray.includes(...).find is not a function
