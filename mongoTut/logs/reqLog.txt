@@ -337,3 +337,9 @@
 20240520	11:46:05	f9f8fd41-e380-4106-b6a8-348ba672084d	PUT	undefined	/employee
 20240520	11:49:13	1cc4e4ab-4aea-4530-b668-4a59c580718f	POST	undefined	/auth
 20240520	11:49:38	0b1acd9f-0f21-4cdf-9798-f9038296f43e	PUT	undefined	/employee
+20240520	14:19:30	2d89fbec-8b02-4875-8efe-9ebf25b4d887	POST	undefined	/auth
+20240520	14:19:52	88f11689-e897-4ca2-8ffd-ecf2f2cce808	GET	undefined	/employee
+20240520	14:25:13	dadef393-9ab8-4f00-b980-f9655ec4b6fe	POST	undefined	/auth
+20240520	14:25:39	08d064ea-eac4-49d5-8f2b-4ec0beaaf4f8	GET	undefined	/employee/2
+20240520	16:04:15	97e9b6ad-74b5-4c96-8cb3-e08ebbdd7251	POST	undefined	/register
+20240520	16:12:25	cf1e0fd1-66f4-4bb2-8a2c-ee9c30f903bf	POST	undefined	/register
